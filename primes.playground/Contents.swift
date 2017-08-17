@@ -1,5 +1,5 @@
 //: Playground - noun: a place where people can play
-// primes between x and y
+// display primes between x and y
 //
 
 
